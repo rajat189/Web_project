@@ -1,0 +1,352 @@
+/* CSS Document */
+body{
+	background:url(../images/bg1.jpg) center center;
+	font-family:Arial, Helvetica, sans-serif;
+	background-repeat:no-repeat;
+	background-size:cover;
+	color:#000;
+	}
+			
+h1, h2, h3{
+	font-family: "Lucida Console", Monaco, monospace;
+	color: #fff;
+	//font-style: italic;
+	font-size: 18px;
+	}
+#c-head	{
+	border-bottom: 1px #000 dotted;
+	padding-bottom: 10px;
+	}
+
+#wrapper{
+	width:900px; 
+	margin:10px auto;
+	background-color:rgba(255,255,255,.2);
+    padding:0px 40px;
+}
+#top{}
+#logo{
+	float:left;
+	margin:0px 0px;
+	}
+#social{
+	float:right; 
+	margin:20px 0px;
+	}
+#social ul li{
+	display:inline;
+	list-style-type:none;
+	}
+#social p{
+	text-align:right; 
+	color:#fff;
+	}
+				 
+
+/*#topnav 	{clear:both; margin:0px; padding:0px;
+			 }
+#topnav ul	{
+	border-top:2px #ac8b72 solid;
+	border-bottom:2px #ac8b72 solid;
+	padding :10px 0px;
+	margin:0px;
+			 }
+#topnav ul li	{
+	display: inline;
+	list-style-type: none;
+	margin: 0px 10px 0px 10px;
+	color: #BC750A;
+				 }
+#topnav a:link		{font-weight:bold; text-decoration:none; color:#BC750A;}
+#topnav a:visited	{font-weight:bold; text-decoration:none; color:#BC750A;}
+#topnav a:active	{font-weight:bold; text-decoration:none; color:#BC750A;}
+#topnav a:hover		{font-weight:bold; text-decoration:none; color:#FFCC33;}
+#topnav a:focus		{font-weight:bold; text-decoration:none; color:#FFCC33;}
+*/
+#content{
+	float:left; 
+	width:580px; 
+	padding-right:25px;
+	}
+#content p{
+	font-size: 15px;
+	line-hight: 180%;
+	color: #000;
+	}
+#content h4{
+	color:#fff;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	}
+#content h5{
+	font-weight:bolder;}
+#box1{
+	width:265px;
+	float:left;
+	margin-right:40px;
+	}
+#box1 img{
+	padding:5px;
+	border:1px #000 dotted;
+	} 
+#box2{
+	width:265px; 
+	float:left;
+	}
+#box2 img{
+	padding:5px;
+	border:1px #000 dotted;
+	}
+#rightside p{
+	font-size:15px; 
+	line-hight:180%; 
+	color:#000;
+	}
+#rightside h2{
+	color:#fff;
+	}
+#rightside li{
+	font-size:15px; 
+	line-hight:180%; 
+	color:#000;
+	}
+.img-right{
+	float:right;
+	padding:0px 0px 0px 10px;
+	}
+
+#rightside{
+	float:right; 
+	width:270px;
+	}
+.side-img{
+	border: 1px #000 solid;
+	}
+#footer{
+	clear:both;
+	padding:20px;
+	border-top:1px #000 dotted;
+	}
+#footer{
+	text-align:center; 
+	font-size:14px; 
+	font-weight:bold;
+	}
+#footer p{
+	color:#000;
+	}
+#footer a{
+	text-decoration:none;
+	color:#CACACA;}
+#footer a:hover{
+	text-decoration:underline;}
+#recom{
+	line-height:25px;
+	color:#000;}
+#recom li{
+	list-style:none;}
+#recom a{
+	color:#000;
+	text-decoration:underline;}
+#aperfo a{
+	color:#FFF;}
+#aperfo a:hover{
+	text-decoration:underline;}
+/* Contact Form Styles */
+
+/*#contect-form ol li{list-style-type:none;}
+input, textarea {display:block; width:350px; border:1px #000 solid; padding:5px;}
+input:hover, textarea:hover {
+	background-color: #663300;
+}
+input:focus, textarea:focus {background-color:#663300;}
+label 			{display:block; margin-top:10px;}
+textarea 		{height:150px;}
+.submit			{width:100px; margin-top:10px;}
+.reset			{ width:100px; margin-top:10px;}
+*/
+.column-cnt{
+	width:554px; 
+	float:left;
+	}
+.column{
+	width:260px;
+	padding-right:17px;
+	}
+.column label, .column-big label{
+	display:block; 
+	font-size:13px; 
+	font-family:"Lucida Sans", "Trebuchet MS", sans-serif; 
+	font-weight:bold; 
+	color:#d1d1d1; 
+	padding-bottom:8px;
+	}
+.column input{
+	display:block;
+	background:transparent; 
+	color:#000; 
+	height:23px; 
+	border:0; 
+	font-family:arial, sans-serif; 
+	font-size:13px; 
+	padding-top:5px; 
+	width:250px; 
+	outline:none;
+	}
+.column-big{
+	float:left;
+	width:391px;
+	}
+.column-big textarea{
+	background:transparent; 
+	color: #000; 
+	font-family: arial, sans-serif; 
+	font-size: 13px; 
+	border: 0px; 
+	width: 381px; 
+	height: 137px;
+	outline:none;}
+span.text-field{
+	background:url(../images/text-field.png) no-repeat 0 0; 
+	display:block;
+	width:260px; 
+	height:30px; 
+	padding-top:2px; 
+	padding-left:5px;
+	}
+span.text-area{
+	background:url(../images/textarea.png) no-repeat 0 0; 
+	width:386px; 
+	height:147px; 
+	display:block; 
+	padding-top:5px; 
+	padding-left:5px;
+	}
+label{
+	display:block; 
+	margin-top:10px;
+	}
+form p{
+	padding-top:15px;
+	}
+.column-big a{
+	text-decoration:none;
+	color:#FFF;
+	}
+.column-big a:hover{
+	text-decoration:underline;
+	color:#FFF;
+	}
+/* gallary */
+#photo img{
+	height:80px;
+	width:120px;
+	margin:0 10px 10px 10px;
+	border:1px solid #000;
+	}
+.video img{
+	margin:0 20px 50px 10px;
+	border:1px solid #000;
+	}
+	
+/* services toggle*/
+.toggle {
+	padding-bottom: 20px;
+	}
+.toggle h4.title {
+	cursor: pointer;
+	color: #000;
+	padding: 12px 20px 12px;
+	margin: 0;
+	line-height: 1;
+	font-size: 18px;
+	background: rgba(255,255,255,.3);
+	border-radius:5px;
+	}
+.toggle h4.title.active {
+	background:rgba(255,255,255,.6);
+	}
+.togglebox {
+	height: auto;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	
+	}
+.togglebox div {
+	padding: 20px 20px 0 20px;
+	}
+
+/* products*/
+
+#page-wrap{
+	width:580px; 
+	margin:50px auto; 
+	}
+a{ 
+	text-decoration:none; 
+	}
+.tabs{ 
+	list-style:none; 
+	overflow:hidden; 
+	padding-left:1px; 
+	}
+.tabs li{ 
+	display:inline; 
+	}
+.tabs li a{ 
+	display:block; 
+	float:left; 
+	padding:4px 8px; 
+	color: black;
+	border:1px solid #ccc; 
+	background:rgba(255,255,255,.5); 
+	margin:0 0 0 -1px;
+	}
+.tabs li a.current{
+	background:rgba(255,255,255,.2);
+	border-bottom:0;
+	position:relative;
+	top:2px;
+	z-index:2; 
+	}
+.box-wrapper{ 
+	-moz-box-shadow: 0 0 20px black; 
+	-webkit-box-shadow: 0 0 20px black; 
+	padding: 20px 20px 0px 20px; 
+	background:rgba(255,255,255,.3); 
+	border: 1px solid #ccc; 
+	margin: -1px 0 0 0; 
+	height: 250px; 
+	position: relative; 
+	}
+.content-box{ 
+	overflow: hidden; 
+	position: absolute; 
+	top: 20px; 
+	left: 20px; 
+	width: 550px; 
+	height: 230px; 
+	}
+.current{ 
+	z-index: 100; 
+	}
+.col-one, .col-two, .col-three{ 
+	width:30%; 
+	float:left; 
+	position:relative; 
+	top:350px;
+	}
+.col-one, .col-two{
+	margin-right:3%; 
+	}
+.box-wrapper img{
+	width:170px;
+	}
+#naming a{
+	text-decoration:none;
+	color:#666;}
+#naming a:hover{
+	text-decoration:underline;}
+#porto{
+	height:700px;
+	}

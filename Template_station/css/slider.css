@@ -1,0 +1,37 @@
+#slider {
+	width: 900px;
+	height: 300px;
+	position: relative;
+	overflow: hidden;
+	text-align: left;
+ 	margin-top: 5px;
+	border:1px dotted #000;
+}
+#sliderContent {
+    width: 900px;
+    position: absolute;
+	top: 0;
+	margin: 0;padding: 0;
+}
+.sliderImage {
+    float: left;
+    position: relative;
+	display: none;
+}
+.clear{
+	clear:both;
+	}
+.top{ 
+	top:0;
+	left:600px; 
+	}
+.bottom{ 
+	bottom:0;
+	left:0; 
+	}
+#slider ul{ 
+	list-style-type:none;
+	}
+#slider ul li{ 
+	margin-left:0px; 
+	}

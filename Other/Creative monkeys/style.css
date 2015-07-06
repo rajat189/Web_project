@@ -1,0 +1,26 @@
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, img, ul, li, fieldset, form, label { margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent; }
+/*ol, ul { list-style: none; }*/
+
+/*:focus { outline: 0; }*/
+
+body { background: url(images/back_pattern.jpg); font: 14px Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif; line-height: 1.6em; color: #38170c; }
+
+a { text-decoration: none; }
+
+.back { background: url(images/main_cont_bck.png) no-repeat top center; height: 80px; }
+
+.main_container { margin: 0 auto; width: 960px; }
+
+#top_header {background: url(images/main_cont_bck.png) no-repeat top center; height: 80px;  }
+
+	.quote_top { float: left; padding-top: 18px; }
+	.quote_top p { font-size: 16px; text-shadow: 1px 1px 0px #fff; font-style: italic; }
+
+	ul.navigation { float: right; padding-top: 15px; }
+	ul.navigation li { display: inline; margin-left: 40px; }
+	ul.navigation li a { display: inline-block; text-indent: -9999px; width: 86px; height: 41px; background-position: 0px 0px; }
+	/*a.home:hover, a.about:hover, a.works:hover, a.contact:hover  { background-position: 0px -41px; }
+	a.home { background: url(images/home.png) no-repeat; }
+	a.about { background: url(images/about.png) no-repeat; }
+	a.works { background: url(images/works.png) no-repeat; }
+	a.contact { background: url(images/contact.png) no-repeat; }*/

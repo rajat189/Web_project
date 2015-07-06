@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+	}
+body{
+	background:url(images/bg.gif) no-repeat;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#73360d;
+	}
+#container{
+	width:950px;
+	margin:80px 0px 0px 120px;
+	}
+#title{
+	height: 82px;
+    width: 412px;
+	float:left;
+	}
+h1{
+	text-indent: -9999px;
+	}
+h1 a{
+	display: block;
+	background: url(images/title.png) no-repeat;
+	height: 82px;
+    width: 412px;}
+#navigation{
+	width: 538px;
+    height: 82px;
+	float:left;
+	}
+.navlinks li {
+  list-style-type: none;
+  float: right;
+  width: 100px;
+  text-align: center;
+  margin-top: 30px;
+  background: url(images/nav_seperator.png) no-repeat;
+}
+.navlinks li a {
+	text-decoration:none;
+	text-transform:uppercase;
+	font-weight:bold;
+	color:#432303;
+}
+.navlinks li a:hover{
+	color:#73360d;
+	}	
+.navlinks li.nodivider{ 
+	background-image: none; 
+	}
+.divider{
+	float: left;
+	margin:30px 0 30px 0;
+	height:2px;
+	width:950px;
+	background:url(images/divider.png) no-repeat;}
+#featured{
+	float:left;
+	width:950px;
+	height:234px;
+	}
+#featured-text{
+	float:left;
+	width:451px;
+	height: 234px;
+	}
+h3{
+	text-transform:capitalize;
+	margin:20px 0 10px 0;
+	font-size:25px;
+	}
+#featured-image{
+	width:479px;
+	float:right;
+	height: 234px;
+	}
+#featured-image img{
+	background-color:#ba5009;
+	padding:12px;
+	}
+.content-box-left{
+	width:460px;
+	float:left;
+	}
+#about{
+	margin-bottom:15px;
+	}
+#typi{
+	margin-top:20px;
+	}
+.content-box-right{
+	float:right;
+	width:460px;
+	}
+#sample{
+	margin:0 50px 15px 0;
+	}
+#samples img{
+	background-color:#e7c788;
+	padding:5px;
+	}
+	
+.content-box-small{
+	float: left;
+    width: 305px;
+	height:230px;
+	margin-right:10px;
+	}
+.content-box-small-img img{
+    float: left;
+	background-color:#e7c788;
+	padding:5px;
+	margin:0 5px 5px 0;
+	}
+#small{
+	margin:0px 200px 25px 0;
+	}
+#footer{
+	background:url(images/footer.png) no-repeat;
+	float:left;
+	height:50px;
+	width:950px;
+	margin-top:50px;
+	}
+#footer p{
+	text-align:center;
+	margin-top:12px;
+	color:#FFF;
+	}

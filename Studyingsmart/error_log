@@ -1,0 +1,71 @@
+[27-Feb-2015 23:35:09 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/studyingsmart/public_html/temp/includes/db.php on line 3
+[27-Feb-2015 23:35:09 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/studyingsmart/public_html/temp/functions/functions.php on line 3
+[27-Feb-2015 23:35:09 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 137
+[27-Feb-2015 23:35:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 138
+[27-Feb-2015 23:35:09 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 11
+[27-Feb-2015 23:35:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 12
+[27-Feb-2015 23:35:09 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 152
+[27-Feb-2015 23:35:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 153
+[27-Feb-2015 23:46:28 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/studyingsmart/public_html/temp/includes/db.php on line 3
+[27-Feb-2015 23:46:28 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/studyingsmart/public_html/temp/functions/functions.php on line 3
+[27-Feb-2015 23:46:28 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 137
+[27-Feb-2015 23:46:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 138
+[27-Feb-2015 23:46:28 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 11
+[27-Feb-2015 23:46:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 12
+[27-Feb-2015 23:46:28 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 152
+[27-Feb-2015 23:46:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 153
+[27-Feb-2015 23:58:19 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/studyingsmart/public_html/temp/functions/functions.php on line 3
+[27-Feb-2015 23:58:19 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 137
+[27-Feb-2015 23:58:19 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 138
+[27-Feb-2015 23:58:19 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 11
+[27-Feb-2015 23:58:19 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 12
+[27-Feb-2015 23:58:19 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 152
+[27-Feb-2015 23:58:19 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 153
+[28-Feb-2015 00:00:17 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/studyingsmart/public_html/temp/functions/functions.php on line 3
+[28-Feb-2015 00:00:17 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 137
+[28-Feb-2015 00:00:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 138
+[28-Feb-2015 00:00:17 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 257
+[28-Feb-2015 00:00:17 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 258
+[28-Feb-2015 00:00:17 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 152
+[28-Feb-2015 00:00:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 153
+[28-Feb-2015 00:00:23 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/studyingsmart/public_html/temp/functions/functions.php on line 3
+[28-Feb-2015 00:00:23 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 137
+[28-Feb-2015 00:00:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 138
+[28-Feb-2015 00:00:23 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/all.php on line 89
+[28-Feb-2015 00:00:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/all.php on line 90
+[28-Feb-2015 00:00:23 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 152
+[28-Feb-2015 00:00:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 153
+[28-Feb-2015 00:00:28 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/studyingsmart/public_html/temp/functions/functions.php on line 3
+[28-Feb-2015 00:00:28 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 137
+[28-Feb-2015 00:00:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 138
+[28-Feb-2015 00:00:28 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 152
+[28-Feb-2015 00:00:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 153
+[28-Feb-2015 00:00:33 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/studyingsmart/public_html/temp/functions/functions.php on line 3
+[28-Feb-2015 00:00:33 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 137
+[28-Feb-2015 00:00:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 138
+[28-Feb-2015 00:00:33 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 152
+[28-Feb-2015 00:00:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 153
+[28-Feb-2015 00:00:36 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/studyingsmart/public_html/temp/functions/functions.php on line 3
+[28-Feb-2015 00:00:36 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 137
+[28-Feb-2015 00:00:36 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 138
+[28-Feb-2015 00:00:36 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 152
+[28-Feb-2015 00:00:36 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 153
+[28-Feb-2015 00:00:45 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/studyingsmart/public_html/temp/functions/functions.php on line 3
+[28-Feb-2015 00:00:45 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 137
+[28-Feb-2015 00:00:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 138
+[28-Feb-2015 00:00:45 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 152
+[28-Feb-2015 00:00:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 153
+[28-Feb-2015 00:01:01 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/studyingsmart/public_html/temp/functions/functions.php on line 3
+[28-Feb-2015 00:01:01 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 137
+[28-Feb-2015 00:01:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 138
+[28-Feb-2015 00:01:01 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 152
+[28-Feb-2015 00:01:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 153
+[28-Feb-2015 00:01:16 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/studyingsmart/public_html/temp/functions/functions.php on line 3
+[28-Feb-2015 00:01:16 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 137
+[28-Feb-2015 00:01:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 138
+[28-Feb-2015 00:01:16 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 257
+[28-Feb-2015 00:01:16 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 258
+[28-Feb-2015 00:01:16 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/studyingsmart/public_html/temp/functions/functions.php on line 152
+[28-Feb-2015 00:01:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/studyingsmart/public_html/temp/functions/functions.php on line 153
+[03-Mar-2015 16:22:18 Asia/Kolkata] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/studyingsmart/public_html/temp/config.php on line 6
+[04-Mar-2015 15:53:37 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/studyingsmart/public_html/rate.php on line 9

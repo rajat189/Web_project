@@ -1,0 +1,27 @@
+<h1 id="c-head">Contact Template Station </h1>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pretium nunc eget mi pellentesque vel adipiscing orci tempus. Indapibus porta feugiat. Vestibulum dignissim lorem tortor. Donec eleifend pharetra velit, ac euismod nunc porta ac. Aliquam est mauris, cursus sit amet facilisis nec, euismod in elit. Integer eu pharetra odio. Proin dictum urna non nibh adipiscing laoreet at a dolor. Quisque varius lacus vitae neque accumsan nec tempus quam ullamcorper.</p>
+				<div id="contect-form">
+				<form method="post" action="" name="form1" id="my_contact_form">
+				<ol>
+					<li><label for="full-name">Full Name</label>
+					<input type="text" name="full-name">
+					</li>
+					<li><label for="email">E-mail</label>
+					<input type="text" name="email">
+					</li>
+					<li><label for="phone">Phone</label>
+					<input type="text" name="phone">
+					</li>
+				  <li><label for="message">Message</label>
+					<textarea name="message"></textarea>
+				  </li>
+					<li>
+					<input class="submit" type="submit" name="Submit" value="submit">
+					</li>
+                    <li>
+                    <input class="reset" name="reset" type="reset" />
+                    </li>
+				</ol>
+				</form>
+				</div>
+				<h3>Proin dictum urna non nibh adipiscing laoreet at a dolor.</h3>

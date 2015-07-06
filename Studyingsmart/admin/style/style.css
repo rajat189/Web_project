@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+.heading{
+	font-size:24px;
+	font-weight:bolder;}
+body{
+	background:skyblue;}
+.main_wrapper{
+	width:1000px;
+	height:auto;
+	margin:auto;}
+.header{
+	width:1000px;
+	height:120px;
+	background:black;
+	color:#FFF;
+	text-align:center;
+	border-bottom:5px groove orange;}
+#logo{
+	font-size:36px;
+	padding-top:30px;}
+#left{
+	width:800px;
+	height:1000px;
+	background:#FFC;
+	color:#000;
+	float:left;}
+#right{
+	width:200px;
+	height:1000px;
+	background:#36C;
+	color:#F00;
+	float:right;}
+#right a{
+	text-decoration:none;
+	color:white;
+	text-align:left;
+	font-size:18px;
+	font-family:palatino;
+	padding:6px;
+	margin:6px;
+	display:block;}
+#right a:hover{
+	text-decoration:underline;
+	font-weight:bolder;
+	color:#F90;}
+		
+#paging_button ul{ width: 510px; padding:0px; margin:8px; }
+
+#paging_button ul li { 
+
+	-moz-border-radius: 3px 3px 3px 3px;
+    background: none repeat scroll 0 0 #000000;
+    color: #FFFFFF;
+    float: left;
+    font-family: helvetica,arial,sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    margin: 0 2px 0px;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: none;
+	list-style-type:none; 
+    width: 20px;cursor:pointer;
+	}
+	
+#paging_button ul li:hover{background:#006699;}
+li:hover{ color: #CC0000; cursor: pointer; }
+
+
+
+
+
+
+
+

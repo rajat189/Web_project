@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Template Station</title>
+	<!-- TemplateEndEditable -->
+	<script type="text/javascript" src="../js/slider/jquery.js"></script>
+	<link href="../css/styles.css" rel="stylesheet" type="text/css" media="screen"/>
+    <link rel='stylesheet' href="../css/nav.css" />
+    <!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+    
+	<script type='text/javascript' src='js/slotmachine.js'></script>
+    <script type="text/javascript" src="js/toggle.js"></script>
+	<script type="text/javascript" src="../js/slider/slider.js"></script>
+	<script src="../js/nav/jquery.color-RGBa-patch.js"></script>
+    <script src="../js/nav/example.js"></script>
+	<link href="../css/slider.css" rel="stylesheet" type="text/css" media="screen" />
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('#slider').s3Slider({
+				timeOut: 2000
+			});
+		});
+	</script>
+</head>
+
+<body>
+<div id="wrapper">
+
+	<div id="top">
+	
+		<div id="logo">
+		  <p><img src="../images/log.png" width="300" height="150" /></p>
+	    </div>
+		
+		<div id="social">
+			<p>For Additional Imformation<br>Please Call: 1800.123.45</p>
+			<ul>
+					<li><a href="http://www.facebook.com"><img src="../images/icons/facebook_32.png"></a></li>
+					<li><a href="http://www.twitter.com"><img src="../images/icons/twitter_32.png"></a></li>
+					<li><a href="#"><img src="../images/icons/rss_32.png"></a></li>
+					<li><a href="http://www.linkedin.com"><img src="../images/icons/linkedin_32.png"></a></li>
+					<li><a href="http://www.yelp.com"><img src="../images/icons/yelp_32.png"></a></li>
+					<li><a href="http://www.youtube.com"><img src="../images/icons/youtube_32.png"></a></li>
+			</ul>
+		</div>
+	</div>
+	<!-- TemplateBeginEditable name="nav" -->
+	<div class="topnav">
+	  <ul class="group" id="example-two">
+	    <li><a rel="#a8760c" href="../index.html">WELCOME</a></li>
+	    <li class="current_page_item_two"><a rel="#C6AA01" href="../about.html">ABOUT</a></li>
+	    <li ><a rel="#900" href="../privacy.html">FAQ</a></li>
+	    <li><a rel="#36C" href="../services.html">SERVICES</a></li>
+	    <li><a rel="#1B9B93" href="../portfolio.html">GALLARY</a></li>
+	    <li><a rel="#8DC91E" href="../contact.html">CONTACT</a></li>
+      </ul>
+    </div>
+	<!-- TemplateEndEditable -->
+	<div id="banner">
+		<div id="slider"> 
+			<ul id="sliderContent"> 
+				<li class="sliderImage"> 
+				<a href="" ><img src="../images/banner/b1.jpg"></a> 
+				<span class="to"><strong></span> 
+				</li> 
+
+				<li class="sliderImage"> 
+				<a href="" ><img src="../images/banner/b2.jpg"></a> 
+				<span class="to"><strong></span> 
+				</li> 
+
+				<li class="sliderImage"> 
+				<a href="" ><img src="../images/banner/b3.jpg"></a> 
+				<span class="to"><strong></span> 
+				</li> 
+
+				<li class="sliderImage"> 
+				<a href="" ><img src="../images/banner/b4.jpg"> </a>
+				<span class="to"><strong></span> 
+				</li> 
+				<div class="clear sliderImage"></div> 
+			</ul> 
+		</div>
+	</div>
+	
+	<div id="content-wrapper">
+	
+		<div id="content">
+		  <!-- TemplateBeginEditable name="content" -->
+		  <h1 id="c-head">Welcome To Template Station</h1>
+				<p>Website designing is an amazing way of increasing your business through attracting more consumers, the online way. Internet offers the grand platform to the various business organizations to present their wide range of products and services to the wide audience in order to gain more consumers. Designing a website can help you for the purpose and provide extreme service in the field. Only a unique website design can help you get the required recognition in the market.</p>
+				<h2>Desgin Collection</h2>
+				<p>Template Station is driven to provide the best results in order to provide complete satisfaction. The most important thing is that we offer our expertise skills and the superb designing at the most affordable price as per the committed standards.We provide many template views to understand a perfect look of website  according to requirement.</p>
+				
+				<div id="box1">
+					<img id="box1img" src="../images/gallary/1sm-sepia.jpg">
+					<h2>HTML Templates</h2>
+					<p>There is a wide collection of HTML templates full of proffesional skills. A first look of templates is given to select a proper design.</p>
+				</div>
+				<div id="box2">
+					<img id="box2img" src="../images/gallary/4sm-sepia.jpg">
+					<h2>Flash Templates</h2>
+					<p>It is another collection of flash templates  with effective ideas. Only a first look is provided to make sure about your design.</p>
+				</div>
+				
+				<h2>Our Templates</h2>
+				<img class="img-right" src="../images/wireframe.jpg">
+				<p>We are specialized in designing websites that makes your brand stand out and establishing unique identity. We are the acknowledged Template Station, having the leading marketing experience in the industry and provide our full support in achieving the goals of your company with full commitment towards our work.</p>
+				<p>We provide you professional templates which are secure, easy to manage and user friendly for buyers and administrator. We always take care of design and color combinations used in site to make visitor comfortable with our design.Our technical team and Project Management team are always available to guide you.</p>
+				<h4>Templates made by us are tested on different Browsers.</h4>
+	      <!-- TemplateEndEditable -->
+	  </div>
+		
+		<!-- TemplateBeginEditable name="EditRegion5" -->
+        <div id="rightside">
+			<h2>About Us</h2>
+			<p>Template station provide all resources and a motive to design web templates for new developer.</p>
+			<p> <img class="side-img" src="../images/gallary/2sm.jpg" width="250" height="200" /></p>
+			<p>Our streamlined processes ensure best practices across the project development cycle and insightful resolutions and innovation is delivered.</p>
+			<h2>Recommended</h2>
+			<ul id="recom">
+				<li><a href="http://www.wix.com/"><img src="../images/icons/wix.jpg" width="16" height="16"  alt=""/>  WIX - free website builder</a></li>
+				<li><a href="http://bluegriffon.org/"><img src="../images/icons/bluegriffon.png" width="16" height="16"  alt=""/>  Blue Griffon - easy web editer</a></li>
+				<li><a href="http://validator.w3.org/"><img src="../images/icons/w3c.png" width="16" height="16"  alt=""/>  W3C - fix Html markup errors</a></li>
+				<li><a href="http://www.w3schools.com/"><img src="../images/icons/w3.ico"  width="16" height="16"  alt=""/>  W3schools - easy to study</a></li>
+			</ul>
+			<p>these recommendation also helps to learn web designing.</p>
+			
+		</div>
+		<!-- TemplateEndEditable -->
+	</div>
+	
+	<div id="footer">
+		<p>&copy; 2014 template-station.tk &bull; All Rights Reserved &bull; <a href="terms.html">Terms of use</a> | <a href="privacy.html">Privacy Policy</a> | <a href="contact.html">Contact Us</a></p>
+	</div>
+	
+</div>
+
+
+</body>
+</html>
